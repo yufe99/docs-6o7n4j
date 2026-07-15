@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-d20mhy.keitaro-tech-rtb.online/sitemap.xml
